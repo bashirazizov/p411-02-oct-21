@@ -1,0 +1,10 @@
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\bin\Debug\netcoreapp3.1\MyUtils.deps.json
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\bin\Debug\netcoreapp3.1\MyUtils.dll
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\bin\Debug\netcoreapp3.1\MyUtils.pdb
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.csproj.AssemblyReference.cache
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.AssemblyInfoInputs.cache
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.AssemblyInfo.cs
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.csproj.CoreCompileInputs.cache
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.dll
+C:\Users\Bashir Azizov\Desktop\MyUtils\MyUtils\obj\Debug\netcoreapp3.1\MyUtils.pdb
